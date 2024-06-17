@@ -1,5 +1,3 @@
-# Doucument_parser
-
 # Simple File Parser
 
 Practice for C++ coding skills
